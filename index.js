@@ -55,8 +55,7 @@ memberlimit = 1
 cr = '*「 Bima & Bagas 」*'
 lolkey = 'e3d6805ea05cefd5b8fc3a9c'
 /******** OWNER NUMBER**********/
-const ownerNumber = ["6282338052276@s.whatsapp.net"]   //KONTAK OWNER BOT! 
-const ownerNumber = ["6283862496089@s.whatsapp.net"]   //KONTAK OWNER BOT!
+const ownerNumber = ["6283862496089@s.whatsapp.net"]   //ganti nomor lu! 
 
        
 /*********** LOAD FILE ***********/
