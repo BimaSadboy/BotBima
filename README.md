@@ -1,18 +1,10 @@
-CARA INSTALL MELALUI GITCLONE
+# WINRDP BA_channel
 
-> pkg install git
-> gitclone https://github.com/BimaSadboy/BotBima
-> node biba.js
+build yml :https://pastebin.com/MBVNQp2G
 
+Remotedesktop chrome : https://remotedesktop.google.com/headless
 
+tutorial yt Bang Android
+Watch Video: https://youtu.be/HXCjo8Ky3RA
 
-
-CARA INSTALL
-
-> termux-setup-storage [Y]
-> cd /sdcard
-> cd -r arabot /$HOME
-
-> node index.js
-> npm start
-> Now scan the QR
+# Selamat Mencoba Dan Semoga Berkah Teman Teman
