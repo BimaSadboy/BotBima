@@ -1,18 +1,18 @@
 CARA INSTALL MELALUI GITCLONE
 
 > pkg install git
-> gitclone https://github.com/ItsAraZ/Arabot
-> cd arabot
-> bash install.sh
-> npm start
-> scan qr
+> gitclone https://github.com/BimaSadboy/BotBima
+> node biba.js
+
+
+
 
 CARA INSTALL
 
 > termux-setup-storage [Y]
 > cd /sdcard
 > cd -r arabot /$HOME
-> cd arabot
-> bash install.sh 
+
+> node index.js
 > npm start
 > Now scan the QR
